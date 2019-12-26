@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suka">likes</string>
+    <string name="komentar">comments</string>
+    <string name="pelanggan">subscribers</string>
+    <string name="_12jt">12m</string>
+    <string name="_19rb">19k</string>
+    <string name="_10rb">10k</string>
+    <string name="pesan">message</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">profile</string>
+    <string name="Teknik_informatika">Teknik Informatika</string>
+    <string name="suka">suka</string>
+    <string name="komentar">komentar</string>
+    <string name="pelanggan">pelanggan</string>
+    <string name="_12jt">12jt</string>
+    <string name="_19rb">19rb</string>
+    <string name="_10rb">10rb</string>
+    <string name="pesan">pesan</string>
+</resources>
